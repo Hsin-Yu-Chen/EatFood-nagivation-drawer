@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "47618648277",
+    "firebase_url": "https://eatfood-28fbb.firebaseio.com",
+    "project_id": "eatfood-28fbb",
+    "storage_bucket": "eatfood-28fbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47618648277:android:f08e87e452cd7555",
+        "android_client_info": {
+          "package_name": "com.example.admin.eatfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47618648277-ljdac3o771r4ldpm159anfgr7dn58cls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.eatfood",
+            "certificate_hash": "567363d84bc9c9089130e2b13177e54a014ee486"
+          }
+        },
+        {
+          "client_id": "47618648277-iou4057ih2ndtd8u2tkcm583tk6gu9s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkBnAbp8KtNHjW8cY3zy8xx2Zfd7i7taY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47618648277-iou4057ih2ndtd8u2tkcm583tk6gu9s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
